@@ -8,7 +8,7 @@ Part A
 2)Collision Resolution Techniques
   a)Briefly describe at least two methods for resolving collisions in open addressing (e.g., linear probing, quadratic probing, double hashing).
     Linear probing will choose the next available address/index in line for each collision.
-    Quadractic probing will instead choose the address/index index+n<sup>2</sup> | n = # of tries
+    Quadractic probing will instead choose the address/index index+n^2 | n = # of tries
   b)Explain the pros and cons of each method.
     Linear probing is simple to implement, but leads to primary clustering.
     Quadractic probing reduces clustering, but may not find an empty slot.
