@@ -1,3 +1,4 @@
+Please view the following as code. It looks much nicer.
 Part A
 1)Define Hashing and Collision Resolution
   a)What is a hash table and why is collision resolution necessary?
