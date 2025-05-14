@@ -1,4 +1,4 @@
-Please view the following as code. It looks much nicer.
+Please view the following as code. I don't know how to format properly.
 Part A
 1)Define Hashing and Collision Resolution
   a)What is a hash table and why is collision resolution necessary?
